@@ -1,0 +1,74 @@
+body {
+    background-color: #f6ebc2;
+}
+
+#contenedor {
+    width: 970px;
+    background-color: #ffffff;
+   
+    margin: 0 auto;
+    padding: 25px;
+    height: 100%;
+}
+
+#header {
+    text-align:center
+    
+    
+}
+
+#header h1 {
+    font-family: 'Kaushan Script', cursive;
+    padding: 20px;
+}
+
+#header ul li{
+    display: inline;
+    margin: 0 30px;
+
+}
+
+#header ul li a {
+    text-decoration: none;
+    background-color: #f6ebc2;
+    padding: 18px;
+    color: #ffffff 
+    
+
+}
+
+#header ul li a:hover {
+    background-color: #b29e84;
+    text-decoration: underline;
+    
+}
+
+#Video {
+    text-align: center;
+    padding: 50px;
+}
+
+#Ingredientes img {
+    image-orientation: flip;
+    width: 250px;
+    height: 200px;
+}
+
+#Ingredientes {
+    text-align: center;
+    padding: 50px;
+}
+
+
+#Pasos img {
+    image-orientation: flip;
+    width: 250px;
+    height: 200px;
+
+}
+
+#Pasos {
+    text-align: center;
+    padding: 50px;
+
+}
